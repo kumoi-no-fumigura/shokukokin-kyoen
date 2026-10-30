@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shokukokin-kyoen",
  "yomi": "しょくこきんわかしゅうきょうえんわか",
  "category": "私撰集",
- "description": null,
+ "description": {
+  "kind": "竟宴和歌",
+  "era": "文永3年（1266）3月12日",
+  "author": "後嵯峨院ほか",
+  "desc": "第十一の勅撰集『続古今集』の完成を祝う竟宴で詠まれた歌。後嵯峨院の御製に続き、関白実経・公相・実雄らが、和歌の浦や玉藻に寄せて集の完成を祝う。"
+ },
  "editions": [
   {
    "pid": "1879496",
@@ -57,6 +62,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-29",
-  "updated_at": "2026-10-29T23:33:29+09:00"
+  "updated_at": "2026-10-29T23:55:04+09:00"
  }
 }
